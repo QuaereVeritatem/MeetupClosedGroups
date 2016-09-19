@@ -5,6 +5,7 @@
 //  Created by Robert Martin on 9/1/16.
 //  Copyright © 2016 Robert Martin. All rights reserved.
 //
+//This app is designed to allow the user to have the ability to select from meetup groups that are in danger of closing. This app demonstrates manual seguing from selected tableviewcells
 
 import UIKit
 
